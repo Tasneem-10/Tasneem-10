@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Tasneem and I'm an Artificial Intelligence Engineer </h2>
+<h2 align="left">Hi  My name is Tasneem and I'm an Artificial Intelligence Engineer </h2>
 
 
 ###
