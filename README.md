@@ -10,20 +10,15 @@
 
 ## 🛠 Projects & Languages
 
-### Demo
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tasneem-10&repo=Demo&layout=compact&theme=dracula)
+<div align="center">
 
-### Heathe Store
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tasneem-10&repo=Heathe_Store&layout=compact&theme=dracula)
+[![Heathe Store](https://github-readme-stats.vercel.app/api/top-langs/?username=Tasneem-10&repo=Heathe_Store&layout=compact&theme=dracula)](https://github.com/Tasneem-10/Heathe_Store)
 
-### Signature Forgery Detection
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tasneem-10&repo=Signature-Forgery-Detection&layout=compact&theme=dracula)
+[![Signature Forgery Detection](https://github-readme-stats.vercel.app/api/top-langs/?username=Tasneem-10&repo=Signature-Forgery-Detection&layout=compact&theme=dracula)](https://github.com/Tasneem-10/Signature-Forgery-Detection)
 
-### NEXA Bank
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tasneem-10&repo=NEXA-Bank&layout=compact&theme=dracula)
+[![NEXA Bank](https://github-readme-stats.vercel.app/api/top-langs/?username=Tasneem-10&repo=NEXA-Bank&layout=compact&theme=dracula)](https://github.com/Tasneem-10/NEXA-Bank)
 
-### AI Engineer Portfolio
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tasneem-10&repo=AI_Engineer_Portfolio_-_Showcasing_Innovation_in_Artificial_Intelligence&layout=compact&theme=dracula)
+</div>
 
 ---
 
@@ -56,4 +51,3 @@
 ###
 
 <img src="https://raw.githubusercontent.com/Tasneem-10/Tasneem-10/output/snake.svg" alt="Snake animation" />
-
