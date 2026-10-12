@@ -1,123 +1,44 @@
-<h1 align="center">Hi 👋, I'm Tasneem Hany</h1>
+<h2 align="left">Hi, My name is Tasneem and I'm an Artificial Intelligence Engineer </h2>
 
-<h3 align="center">
-Artificial Intelligence Engineer | Machine Learning Enthusiast | Problem Solver
-</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/tasneem-hany-432178351/">
-    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-  </a>
-
-  <a href="mailto:tasneem.hany.2006@gmail.com">
-    https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-  </a>
-
-  <a href="https://t.me/Ai_Aoo">
-    https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
-  </a>
-</p>
-
----
-
-## 🚀 About Me
-
-💡 Artificial Intelligence Engineering Student
-
-🤖 Interested in Machine Learning, Deep Learning, Data Science, and MLOps
-
-🏆 Active on Kaggle Competitions
-
-💻 Competitive Programming Enthusiast on Codeforces
-
-📚 Always Learning and Building AI Projects
-
-🌱 Currently improving my skills in:
-- Machine Learning
-- Deep Learning
-- MLOps
-- Data Analysis
-- Problem Solving
-
----
-
-## 🛠 Tech Stack
+###
 
 <div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
-<img width="15"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45"/>
-<img width="15"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45"/>
-<img width="15"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
-<img width="15"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="45"/>
-<img width="15"/>
-
+  <!-- إحصائيات الحساب بالكامل -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Tasneem-10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  
+  <!-- إحصائيات اللغات لكل المشاريع مجتمعة -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tasneem-10&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
----
+###
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-https://github-readme-stats.vercel.app/api?username=Tasneem-10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=Tasneem-10&layout=compact&theme=tokyonight
-
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
 </div>
 
----
+###
 
-## 🔥 GitHub Streak
-
-<div align="center">
-
-https://streak-stats.demolab.com?user=Tasneem-10&theme=tokyonight
-
+<div align="left">
+  <a href="https://www.linkedin.com/in/tasneem-hany-432178351/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:tasneem.hany.2006@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="gmail logo"  />
+  </a>
+  <a href="https://t.me/Ai_Aoo" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="telegram logo"  />
+  </a>
 </div>
 
----
+###
 
-## 🏅 Profiles
-
-<p align="center">
-
-https://github.com/Tasneem-10
-GitHub
-</a> •
-https://www.kaggle.com/
-Kaggle
-</a> •
-https://codeforces.com/
-Codeforces
-</a> •
-https://mlopsmena.com/ar/join/
-MLOps MENA
-</a>
-
-</p>
-
----
-
-## ✨ Fun Fact
-
-```python
-while not success:
-    learn()
-    build()
-    improve()
-
-print("AI Engineer Loading...")
-```
-
-</div>
 
 
